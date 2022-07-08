@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Raymond</h1>
-<h3 align="center">I am an aspiring developer</h3>
 
 - 🔭 I’m currently working on mooc.fi - Java Programming II
 
