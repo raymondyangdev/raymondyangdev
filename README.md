@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Raymond!
 👨‍💻 A computer science student and aspiring software engineer
 <br>🌱 I’m currently learning Data Structures and Algorithms
-<br>📚 I'm actively developing a website for Team Turner
+<br>📚 I'm actively developing a progressive [web app](https://github.com/UoaWDCC/patrols) for Community Patrol New Zealand
 <br>
 
 # 💻 Technologies I've Worked With:
